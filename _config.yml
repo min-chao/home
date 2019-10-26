@@ -85,8 +85,8 @@ author:
   bio              : "Research assistant professor at Nanjing University, interested in Science of Science and Network Science"
   location         : "Nanjing, China"
   employer         :
-  pubmed           : "https://scholar.google.com/citations?user=koEywhsAAAAJ&hl=en"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=koEywhsAAAAJ&hl=en"
   email            :  "mc@nju.edu.cn"
   researchgate     :  "https://www.facebook.com/njuimmarlon"
   uri              :
