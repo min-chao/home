@@ -13,7 +13,7 @@ main:
     url: /awards/
     
   - title: "Social services"
-    url: /social_services/
+    url: /_pages/social_services
     
   - title: "CV"
     url: /cv/
