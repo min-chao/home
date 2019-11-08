@@ -5,6 +5,7 @@ Publications
 3. Sun, J., Sheng, D., Gu, D., Du, J. T., & Min, C. (2017). Understanding link sharing tools continuance behavior in social media. Online Information Review, 41(1), 119-133.  
 2. Min, C., Sun, J., Pei, L., & Ding, Y. (2016). Measuring delayed recognition for papers: Uneven weighted summation and total citations. Journal of Informetrics, 10(4), 1153-1165.  
 1. Sun, J., Min, C., & Li, J. (2016). A vector for measuring obsolescence of scientific articles. Scientometrics, 107(2), 745-757.
+{: reversed="reversed"}
 
 ## Chinese journal articles
 14. 陆天驰, 闵超,高伊林, & 李阳 (2019). 竞争情报视角下的中美人工智能技术领域差距分析——以美国商品管制清单为例. 情报杂志.
