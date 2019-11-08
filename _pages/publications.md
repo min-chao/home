@@ -24,12 +24,12 @@ Publications
 1. 闵超, & 孙建军. (2014). 学科交叉研究热点聚类分析——以国内图书情报学和新闻传播学为例. 图书情报工作, 58(01), 109-116.
 
 ## Conference papers
-6. Zhao, Z., Li, J., Min, C., Bu, Y., Kang, L., & Bian, Y. (2019). Scientists' academic disruptiveness significantly increased after they moved to China. Proceedings of the Association for Information Science and Technology, 56(1), 852-854.  
-5. Zhao, Y., Min, C., Han, X., Deng, S., Wang, H., & Li, J. (2019). Listening to the user's voice: A temporal analysis of autism‐related questions on Quora. Proceedings of the Association for Information Science and Technology, 56(1), 513-516.  
-4. Min, C., Wang, Y., Bu, Y., Kang, L., Sun, J., & Li, J. (2019). Why are some studies more popular in social media?. iConference 2019 Proceedings.  
-3. Min, C., Bu, Y., Sun, J., & Ding, Y. (2018). Is scientific novelty reflected in citation patterns?. Proceedings of the Association for Information Science and Technology, 55(1), 875-876.  
-2. Min, C., Sun, J., & Ding, Y. (2017). Quantifying the evolution of citation cascades. Proceedings of the Association for Information Science and Technology, 54(1), 761-763.  
-1. Min, C., & Sun, J. (2016). A new perspective to measure delayed recognition in a simple way. IConference 2016 Proceedings.
+6\. Zhao, Z., Li, J., Min, C., Bu, Y., Kang, L., & Bian, Y. (2019). Scientists' academic disruptiveness significantly increased after they moved to China. Proceedings of the Association for Information Science and Technology, 56(1), 852-854.  
+5\. Zhao, Y., Min, C., Han, X., Deng, S., Wang, H., & Li, J. (2019). Listening to the user's voice: A temporal analysis of autism‐related questions on Quora. Proceedings of the Association for Information Science and Technology, 56(1), 513-516.  
+4\. Min, C., Wang, Y., Bu, Y., Kang, L., Sun, J., & Li, J. (2019). Why are some studies more popular in social media?. iConference 2019 Proceedings.  
+3\. Min, C., Bu, Y., Sun, J., & Ding, Y. (2018). Is scientific novelty reflected in citation patterns?. Proceedings of the Association for Information Science and Technology, 55(1), 875-876.  
+2\. Min, C., Sun, J., & Ding, Y. (2017). Quantifying the evolution of citation cascades. Proceedings of the Association for Information Science and Technology, 54(1), 761-763.  
+1\. Min, C., & Sun, J. (2016). A new perspective to measure delayed recognition in a simple way. IConference 2016 Proceedings.
 
 ## Books
 李江, 胡志刚, 步一, 闵超. (2018). 科学家修炼指南. 北京, 科学出版社.
