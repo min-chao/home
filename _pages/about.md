@@ -15,4 +15,4 @@ Please visit my [publication page](https://min-chao.github.io/_pages/publication
 **Email**: mc[at]nju[dot]edu[dot]cn  
 **Office**: School of Information Management, Room A209  
 **Office hours**: Monday 17pm-18pm, Friday 17pm-18pm (2019 Fall)  
-(Email me to make an appointment before dropping in)
+(Please email me to make an appointment before dropping in)
