@@ -13,3 +13,4 @@ Chao Min works as Research Assistant Professor in the School of Information Mana
 **Email**: mc[at]nju[dot]edu[dot]cn  
 **Office**: School of Information Management, Room A209  
 **Office hours**: Monday 17pm-18pm, Friday 17pm-18pm (2019 Fall)  
+(Email me to make an appointment before dropping in)
