@@ -27,7 +27,7 @@ Publications
 6\. Zhao, Y., Min, C., Han, X., Deng, S., Wang, H., & Li, J. (2019). Listening to the user's voice: A temporal analysis of autism‐related questions on Quora. Proceedings of the Association for Information Science and Technology, 56(1), 513-516. Melbourne, Australia, 2019.  
 5\. Min, C., Wang, Y., Bu, Y., Kang, L., Sun, J., & Li, J. (2019). Why are some studies more popular in social media?. iConference 2019 Proceedings.  Washington DC, USA, 2019.  
 4\. Min, C., Bu, Y., Sun, J., & Ding, Y. (2018). Is scientific novelty reflected in citation patterns?. Proceedings of the Association for Information Science and Technology, 55(1), 875-876. Vancouver, Canada, 2018.  
-3\. Min, C., Sun, J., & Ding, Y. (2017). Quantifying the evolution of citation cascades. Proceedings of the Association for Information Science and Technology, 54(1), 761-763.  Washington DC, USA, 2017
+3\. Min, C., Sun, J., & Ding, Y. (2017). Quantifying the evolution of citation cascades. Proceedings of the Association for Information Science and Technology, 54(1), 761-763.  Washington DC, USA, 2017.  
 2\. Min, C., & Sun, J. (2016). A new perspective to measure delayed recognition in a simple way. iConference 2016 Proceedings. Philadelphia, USA, 2016.  
 1\. Sun, J., Li, J. & Min, C. (2015). A vector for measuring obsolescence of scientific articles. Proceedings of 15th International Society of Scientometrics and Informetrics Conference. Istanbul,Turkey, 2015.  
 
