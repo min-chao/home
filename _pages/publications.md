@@ -23,6 +23,7 @@ Publications
 1\. 闵超, & 孙建军. (2014). 学科交叉研究热点聚类分析——以国内图书情报学和新闻传播学为例. 图书情报工作, 58(01), 109-116.
 
 ## Conference papers & presentations
+8\. Min, C., Bu, Y., & Sun, J. (2019). Comparing Breakthrough and Non-Breakthrough Papers from Early Citing Structures. Proceedings of 17th International Society of Scientometrics and Informetrics Conference. Rome,Italy, 2019. 
 7\. Zhao, Z., Li, J., Min, C., Bu, Y., Kang, L., & Bian, Y. (2019). Scientists' academic disruptiveness significantly increased after they moved to China. Proceedings of the Association for Information Science and Technology, 56(1), 852-854. Melbourne, Australia, 2019.  
 6\. Zhao, Y., Min, C., Han, X., Deng, S., Wang, H., & Li, J. (2019). Listening to the user's voice: A temporal analysis of autism‐related questions on Quora. Proceedings of the Association for Information Science and Technology, 56(1), 513-516. Melbourne, Australia, 2019.  
 5\. Min, C., Wang, Y., Bu, Y., Kang, L., Sun, J., & Li, J. (2019). Why are some studies more popular in social media?. iConference 2019 Proceedings.  Washington DC, USA, 2019.  
