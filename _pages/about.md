@@ -16,5 +16,7 @@ Please visit my [publication page](https://min-chao.github.io/_pages/publication
 **Email**: mc[at]nju[dot]edu[dot]cn  
 **Office**: School of Information Management, Room A209  
 **Office hours**: Monday 17pm-18pm, Friday 17pm-18pm (2019 Fall)  
-##### 1.For students who request academic advising, email or scheduled onsite dicussion is a better channel than online chat tools like WeChat.  
-##### 2.I might be on occasional business travels, so please just email me before dropping in at office hours.  
+1.For students who request academic advising, email or scheduled onsite dicussion is a better channel than online chat tools like WeChat.
+------------------------------------------------------------------------------------------------------------------------------------------  
+2.I might be on occasional business travels, so please just email me before dropping in at office hours.  
+------------------------------------------------------------------------------------------------------------------------------------------
