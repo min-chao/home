@@ -18,4 +18,4 @@ Please visit my [publication page](https://min-chao.github.io/_pages/publication
 **Office**: School of Information Management, Room A209  
 **Office hours**: Monday 17pm-18pm, Friday 17pm-18pm (2019 Fall)  
 <small>1. For students who request academic advising, email or scheduled onsite discussion is a better channel than online chat tools like WeChat.</small>  
-<small>2. I might be on occasional business travels, so please just email me before dropping in at office hours.</small>  
+<small>2. I might be on occasional business travels. Welcome any visit at office hours and please just give me an email message in advance to ensure we can meet.</small>  
