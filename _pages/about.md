@@ -12,7 +12,9 @@ Chao Min works as Research Assistant Professor in the School of Information Mana
 
 In the term of 2019-2020, I serve as the chair of ASIS&T Special Interest Group of Scientific and Technical Information (SIG-STI) and board officer of ASIS&T Asia Pacific Chapter.  
 
-Please visit my [publication page](https://min-chao.github.io/_pages/publications/) or [Google scholar](https://scholar.google.com/citations?hl=en&user=koEywhsAAAAJ) profile for more details on my publications.
+Please visit my [publication page](https://min-chao.github.io/_pages/publications/) or [Google scholar](https://scholar.google.com/citations?hl=en&user=koEywhsAAAAJ) profile for more details on my publications.  
+
+Please contact me using the information below, or the links on the lower left of this page -- I'm always interested in new ideas and collaborations!  
 
 **Email**: mc[at]nju[dot]edu[dot]cn  
 **Office**: School of Information Management, Room A209  
