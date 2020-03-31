@@ -28,4 +28,7 @@ Please contact me using the information below, or the links on the lower left of
       <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=ucht&d=aPco3MWa80OUX4PipZdxfDGoBfQziq50CLbq759xSls"></script>
 </center>
 
+<center>
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=R_jX8VBZ0VOhrOvxXZ_ZTIgKn7Fxg_Vb1piiI5xolhc&cl=ffffff&w=a"></script>
+</center>
+
