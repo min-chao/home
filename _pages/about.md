@@ -24,9 +24,7 @@ Please contact me using the information below, or the links on the lower left of
 
 
 <center>
-      <!--<div id="clustrmaps-widget" align="center" ></div><script type="text/javascript">var _clustrmaps = {'url' : 'http://min-chao.github.io/', 'user' : 1144720, 'server' : '3', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2014-05-30', 'lang' : 'en', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www3.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();</script><noscript><a href="https://clustrmaps.com/profile/1b64z"><img src="http://www3.clustrmaps.com/stats/maps-no_clusters/min-chao.github.io--thumb.jpg" alt="Locations of visitors to this page" /></a></noscript> -->
-      <!--<div id="clustrmaps-widget" align="center" ></div><script type="text/javascript">var _clustrmaps = {'url' : 'http://min-chao.github.io/', 'user' : 1121020, 'server' : '2', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2014-05-30', 'lang' : 'en', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www2.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();</script><noscript><a href="https://clustrmaps.com/profile/1b64z"><img src="http://www2.clustrmaps.com/stats/maps-no_clusters/https---sites.google.com-site-mdekauwe--thumb.jpg" alt="Locations of visitors to this page" /></a></noscript> -->
-      <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=R_jX8VBZ0VOhrOvxXZ_ZTIgKn7Fxg_Vb1piiI5xolhc&cl=ffffff&w=a"></script>
+  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=R_jX8VBZ0VOhrOvxXZ_ZTIgKn7Fxg_Vb1piiI5xolhc&cl=ffffff&w=a"></script>
 
 </center>
 
