@@ -23,9 +23,7 @@ Please contact me using the information below, or the links on the lower left of
 <small>2. I might be on occasional business travels. Welcome any visit at office hours and please just give me an email message in advance to ensure we can meet.</small>  
 
 
-<center>
-  <div style="height: 35%; width: 35%;">
+<center style="height: 35%;width: 35%;">
     <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=R_jX8VBZ0VOhrOvxXZ_ZTIgKn7Fxg_Vb1piiI5xolhc&cl=ffffff&w=a"></script>
-   </div>
 </center>
 
