@@ -29,8 +29,8 @@ Please contact me using the information below, or the links on the lower left of
         margin: 0px;
     }
     .container {
-        height: 100%;
-        background: #f0e68c;
+        height: 35%;
+        width: 35%;
     }
 </style>
 
