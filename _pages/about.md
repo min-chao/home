@@ -37,7 +37,7 @@ Please contact me using the information below, or the links on the lower left of
 
 <body>
 <center>
-  <div class="container">
+  <div style="height: 35%; width: 35%;">
     <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=R_jX8VBZ0VOhrOvxXZ_ZTIgKn7Fxg_Vb1piiI5xolhc&cl=ffffff&w=a"></script>
    </div>
 </center>
