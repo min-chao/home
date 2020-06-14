@@ -1,5 +1,7 @@
 Publications
 ## English journal articles
+7\.  Min, C, Chen, Q, Yan, E, Bu, Y, Sun, J. Citation cascade and the evolution of topic relevance. Journal of the Association for Information Science and Technology. 2020; 1– 18. https://doi.org/10.1002/asi.24370  
+6\. Zhao, Z., Bu, Y., Kang, L., Min, C., Bian, Y., Tang, L., & Li, J. (2020). An investigation of the relationship between scientists’ mobility to/from China and their research performance. Journal of Informetrics, 14(2), 101037.  
 5\. Zhao, L., & Min, C. (2019). The Rise of Fashion Informatics: A Case of Data-Mining-Based Social Network Analysis in Fashion. Clothing and Textiles Research Journal, 37(2), 87-102.  
 4\. Min, C., Ding, Y., Li, J., Bu, Y., Pei, L., & Sun, J. (2018). Innovation or imitation: The diffusion of citations. Journal of the Association for Information Science and Technology, 69(10), 1271-1282.  
 3\. Sun, J., Sheng, D., Gu, D., Du, J. T., & Min, C. (2017). Understanding link sharing tools continuance behavior in social media. Online Information Review, 41(1), 119-133.  
@@ -7,7 +9,8 @@ Publications
 1\. Sun, J., Min, C., & Li, J. (2016). A vector for measuring obsolescence of scientific articles. Scientometrics, 107(2), 745-757.
 
 ## Chinese journal articles
-15\. 闵超, 张帅, 孙建军. 科学文献网络中的引文扩散——以2011年诺贝尔化学奖获奖论文为例[J]. 情报学报, 2020, 39(3): 259-273.  
+16\. 颜嘉麒, 闵超, 余厚强, 魏家鹏, 贾韬, & 马建. (2020). 科学大数据背景下的科研协作：特征、案例与机遇. 图书与情报, (3), 127-133.
+15\. 闵超, 张帅, 孙建军. (2020). 科学文献网络中的引文扩散——以2011年诺贝尔化学奖获奖论文为例. 情报学报, 39(3), 259-273.  
 14\. 陆天驰, 闵超,高伊林, & 李阳 (2019). 竞争情报视角下的中美人工智能技术领域差距分析——以美国商品管制清单为例. 情报杂志.  
 13\. 高伊林, & 闵超. (2019). 中美与 “一带一路” 沿线国家专利合作态势分析. 图书情报知识, (4), 94-103.  
 12\. 张靖雯, 孙建军, & 闵超. (2019). 引文起飞的定义与量化方法研究. 情报学报, 38(8), 786-797.  
