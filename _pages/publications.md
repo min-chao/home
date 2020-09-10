@@ -1,6 +1,7 @@
 Publications
 ## English journal articles
-7\.  Min, C, Chen, Q, Yan, E, Bu, Y, Sun, J. Citation cascade and the evolution of topic relevance. Journal of the Association for Information Science and Technology. 2020; 1– 18. [https://doi.org/10.1002/asi.24370](https://doi.org/10.1002/asi.24370)  
+8\. Min et al. (Forthcoming). Identifying citation patterns of scientific breakthroughs: A perspective of dynamic citation process. Information Processing & Management.  
+7\.  Min, C, Chen, Q, Yan, E, Bu, Y, Sun, J. Citation cascade and the evolution of topic relevance. (2020) Journal of the Association for Information Science and Technology, 1– 18. [https://doi.org/10.1002/asi.24370](https://doi.org/10.1002/asi.24370)  
 6\. Zhao, Z., Bu, Y., Kang, L., Min, C., Bian, Y., Tang, L., & Li, J. (2020). An investigation of the relationship between scientists’ mobility to/from China and their research performance. Journal of Informetrics, 14(2), 101037.  
 5\. Zhao, L., & Min, C. (2019). The Rise of Fashion Informatics: A Case of Data-Mining-Based Social Network Analysis in Fashion. Clothing and Textiles Research Journal, 37(2), 87-102.  
 4\. Min, C., Ding, Y., Li, J., Bu, Y., Pei, L., & Sun, J. (2018). Innovation or imitation: The diffusion of citations. Journal of the Association for Information Science and Technology, 69(10), 1271-1282.  
