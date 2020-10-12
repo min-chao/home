@@ -1,6 +1,9 @@
 Awards
+* 2019至今 美国Big Ten学术联盟与印第安纳大学CADRE Fellow
+* 2019 江苏省优秀博士学位论文
 * 2019 南京大学优秀博士学位论文
 * 2018 ITAA Paper of Distinction
+* 2018 江苏省第十五届哲学社会科学优秀成果奖一等奖
 * 2017 南京大学校长特别奖学金
 * 2017 NetSci 2017 Student Travel Awards
 * 2016、2017 南京大学研究生国家奖学金
