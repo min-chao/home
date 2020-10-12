@@ -2,6 +2,7 @@ Research
 # Research Interests
 * Scientometrics
 * Science of Science
+* Computational Social Science
 * Network Science
 
 # Research Projects
