@@ -8,3 +8,4 @@ Social Services
 # Professional Membership
 * Member of the International Society for Scientometrics and Informetrics (ISSI) 
 * Member of the Association for Information Science and Technology (ASIS&T)
+* Member of the China Computer Federation (CCF)
