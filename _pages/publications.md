@@ -1,14 +1,14 @@
 Publications
 ## English journal articles
-9\. Min, C., Bu, Y., & Sun, J. (in press). Predicting Scientific Breakthroughs Based on Knowledge Structure Variations. Technological Forecasting & Social Change.  
-8\. Min, C., Bu, Y., Wu, D., Ding, Y., & Zhang, Y. (2020) Identifying citation patterns of scientific breakthroughs: A perspective of dynamic citation process. Information Processing & Management, 58(1), 102428. [https://doi.org/10.1016/j.ipm.2020.102428](https://doi.org/10.1016/j.ipm.2020.102428)  
-7\.  Min, C, Chen, Q, Yan, E, Bu, Y, Sun, J. (2020). Citation cascade and the evolution of topic relevance. Journal of the Association for Information Science and Technology, 1– 18. [https://doi.org/10.1002/asi.24370](https://doi.org/10.1002/asi.24370)  
-6\. Zhao, Z., Bu, Y., Kang, L., Min, C., Bian, Y., Tang, L., & Li, J. (2020). An investigation of the relationship between scientists’ mobility to/from China and their research performance. Journal of Informetrics, 14(2), 101037.  
-5\. Zhao, L., & Min, C. (2019). The Rise of Fashion Informatics: A Case of Data-Mining-Based Social Network Analysis in Fashion. Clothing and Textiles Research Journal, 37(2), 87-102.  
-4\. Min, C., Ding, Y., Li, J., Bu, Y., Pei, L., & Sun, J. (2018). Innovation or imitation: The diffusion of citations. Journal of the Association for Information Science and Technology, 69(10), 1271-1282.  
-3\. Sun, J., Sheng, D., Gu, D., Du, J. T., & Min, C. (2017). Understanding link sharing tools continuance behavior in social media. Online Information Review, 41(1), 119-133.  
-2\. Min, C., Sun, J., Pei, L., & Ding, Y. (2016). Measuring delayed recognition for papers: Uneven weighted summation and total citations. Journal of Informetrics, 10(4), 1153-1165.  
-1\. Sun, J., Min, C., & Li, J. (2016). A vector for measuring obsolescence of scientific articles. Scientometrics, 107(2), 745-757.
+9\. **Min, C.**, Bu, Y., & Sun, J. (in press). Predicting Scientific Breakthroughs Based on Knowledge Structure Variations. ***Technological Forecasting & Social Change***, 164, 120502. [https://doi.org/10.1016/j.techfore.2020.120502](https://doi.org/10.1016/j.techfore.2020.120502)  
+8\. **Min, C.**, Bu, Y., Wu, D., Ding, Y., & Zhang, Y. (2020) Identifying citation patterns of scientific breakthroughs: A perspective of dynamic citation process. ***Information Processing & Management***, 58(1), 102428. [https://doi.org/10.1016/j.ipm.2020.102428](https://doi.org/10.1016/j.ipm.2020.102428)  
+7\.  **Min, C.**, Chen, Q, Yan, E, Bu, Y, Sun, J. (2020). Citation cascade and the evolution of topic relevance. ***Journal of the Association for Information Science and Technology***, 1– 18. [https://doi.org/10.1002/asi.24370](https://doi.org/10.1002/asi.24370)  
+6\. Zhao, Z., Bu, Y., Kang, L., **Min, C.**, Bian, Y., Tang, L., & Li, J. (2020). An investigation of the relationship between scientists’ mobility to/from China and their research performance. ***Journal of Informetrics***, 14(2), 101037.  
+5\. Zhao, L., & **Min, C.** (2019). The Rise of Fashion Informatics: A Case of Data-Mining-Based Social Network Analysis in Fashion. ***Clothing and Textiles Research Journal***, 37(2), 87-102.  
+4\. **Min, C.**, Ding, Y., Li, J., Bu, Y., Pei, L., & Sun, J. (2018). Innovation or imitation: The diffusion of citations. ***Journal of the Association for Information Science and Technology***, 69(10), 1271-1282.  
+3\. Sun, J., Sheng, D., Gu, D., Du, J. T., & **Min, C.** (2017). Understanding link sharing tools continuance behavior in social media. ***Online Information Review***, 41(1), 119-133.  
+2\. **Min, C.**, Sun, J., Pei, L., & Ding, Y. (2016). Measuring delayed recognition for papers: Uneven weighted summation and total citations. ***Journal of Informetrics***, 10(4), 1153-1165.  
+1\. Sun, J., **Min, C.**, & Li, J. (2016). A vector for measuring obsolescence of scientific articles. ***Scientometrics***, 107(2), 745-757.
 
 ## Chinese journal articles
 16\. 颜嘉麒, 闵超, 余厚强, 魏家鹏, 贾韬, & 马建. (2020). 科学大数据背景下的科研协作：特征、案例与机遇. 图书与情报, (3), 127-133.  
