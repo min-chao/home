@@ -42,7 +42,7 @@ Publications
 1\. Sun, J., Li, J. & ***Min, C.*** (2015). A vector for measuring obsolescence of scientific articles. Proceedings of 15th International Society of Scientometrics and Informetrics Conference. Istanbul,Turkey, 2015.  
 
 ## Books
-李江, 胡志刚, 步一, 闵超. (2021). 科学家修炼指南2. 北京, 科学出版社.
+李江, 胡志刚, 步一, 闵超. (2021). 科学家修炼指南2. 北京, 科学出版社.  
 李江, 胡志刚, 步一, 闵超. (2018). 科学家修炼指南. 北京, 科学出版社.
 
 ## Book Chapters
