@@ -11,7 +11,7 @@ Publications
 1\. Sun, J., **Min, C.**, & Li, J. (2016). A vector for measuring obsolescence of scientific articles. ***Scientometrics***, 107(2), 745-757.
 
 ## Chinese journal articles
-18\. 高伊林, & ***闵超***. (2021). 中美对一带一路地区技术扩散结构比较研究. 数据分析与知识发现, 1-22.  
+18\. 高伊林, & ***闵超#***. (2021). 中美对一带一路地区技术扩散结构比较研究. 数据分析与知识发现, 1-22.  
 17\. 赵英男, 王欣, 王全胜, ***闵超***, & 陈晓威. (2020). 默认好评对消费者购买行为的影响. 管理科学(***国家自科基金委管理学部认定的管理类A类期刊***), 33(4), 137－148.  
 16\. 颜嘉麒, ***闵超#***, 余厚强, 魏家鹏, 贾韬, & 马建. (2020). 科学大数据背景下的科研协作：特征、案例与机遇. 图书与情报(***人大复印资料全文转载***), (3), 127-133.  
 15\. ***闵超#***, 张帅, 孙建军. (2020). 科学文献网络中的引文扩散——以2011年诺贝尔化学奖获奖论文为例. 情报学报(***国家自科基金委管理学部认定的管理类A类期刊, 南大文科一流期刊***), 39(3), 259-273.  
@@ -31,16 +31,18 @@ Publications
 1\. ***闵超***, & 孙建军. (2014). 学科交叉研究热点聚类分析——以国内图书情报学和新闻传播学为例. 图书情报工作, 58(01), 109-116.
 
 ## Conference papers & presentations
-8\. Min, C., Bu, Y., & Sun, J. (2019). Comparing Breakthrough and Non-Breakthrough Papers from Early Citing Structures. Proceedings of 17th International Society of Scientometrics and Informetrics Conference. Rome,Italy, 2019.  
-7\. Zhao, Z., Li, J., Min, C., Bu, Y., Kang, L., & Bian, Y. (2019). Scientists' academic disruptiveness significantly increased after they moved to China. Proceedings of the Association for Information Science and Technology, 56(1), 852-854. Melbourne, Australia, 2019.  
-6\. Zhao, Y., Min, C., Han, X., Deng, S., Wang, H., & Li, J. (2019). Listening to the user's voice: A temporal analysis of autism‐related questions on Quora. Proceedings of the Association for Information Science and Technology, 56(1), 513-516. Melbourne, Australia, 2019.  
-5\. Min, C., Wang, Y., Bu, Y., Kang, L., Sun, J., & Li, J. (2019). Why are some studies more popular in social media?. iConference 2019 Proceedings.  Washington DC, USA, 2019.  
-4\. Min, C., Bu, Y., Sun, J., & Ding, Y. (2018). Is scientific novelty reflected in citation patterns?. Proceedings of the Association for Information Science and Technology, 55(1), 875-876. Vancouver, Canada, 2018.  
-3\. Min, C., Sun, J., & Ding, Y. (2017). Quantifying the evolution of citation cascades. Proceedings of the Association for Information Science and Technology, 54(1), 761-763.  Washington DC, USA, 2017.  
-2\. Min, C., & Sun, J. (2016). A new perspective to measure delayed recognition in a simple way. iConference 2016 Proceedings. Philadelphia, USA, 2016.  
-1\. Sun, J., Li, J. & Min, C. (2015). A vector for measuring obsolescence of scientific articles. Proceedings of 15th International Society of Scientometrics and Informetrics Conference. Istanbul,Turkey, 2015.  
+9\. Xu, J., ***Min, C.***, Huang, W., & Bu, Y. (2021). Interdisciplinarity vs. Unidisciplinarity: A Structural Comparison of Multi-generation Citations and References. Proceedings of 18th International Society of Scientometrics and Informetrics Conference. 2021.  
+8\. ***Min, C.***, Bu, Y., & Sun, J. (2019). Comparing Breakthrough and Non-Breakthrough Papers from Early Citing Structures. Proceedings of 17th International Society of Scientometrics and Informetrics Conference. Rome,Italy, 2019.  
+7\. Zhao, Z., Li, J., ***Min, C.***, Bu, Y., Kang, L., & Bian, Y. (2019). Scientists' academic disruptiveness significantly increased after they moved to China. Proceedings of the Association for Information Science and Technology, 56(1), 852-854. Melbourne, Australia, 2019.  
+6\. Zhao, Y., ***Min, C.***, Han, X., Deng, S., Wang, H., & Li, J. (2019). Listening to the user's voice: A temporal analysis of autism‐related questions on Quora. Proceedings of the Association for Information Science and Technology, 56(1), 513-516. Melbourne, Australia, 2019.  
+5\. ***Min, C.***, Wang, Y., Bu, Y., Kang, L., Sun, J., & Li, J. (2019). Why are some studies more popular in social media?. iConference 2019 Proceedings.  Washington DC, USA, 2019.  
+4\. ***Min, C.***, Bu, Y., Sun, J., & Ding, Y. (2018). Is scientific novelty reflected in citation patterns?. Proceedings of the Association for Information Science and Technology, 55(1), 875-876. Vancouver, Canada, 2018.  
+3\. ***Min, C.***, Sun, J., & Ding, Y. (2017). Quantifying the evolution of citation cascades. Proceedings of the Association for Information Science and Technology, 54(1), 761-763.  Washington DC, USA, 2017.  
+2\. ***Min, C.***, & Sun, J. (2016). A new perspective to measure delayed recognition in a simple way. iConference 2016 Proceedings. Philadelphia, USA, 2016.  
+1\. Sun, J., Li, J. & ***Min, C.*** (2015). A vector for measuring obsolescence of scientific articles. Proceedings of 15th International Society of Scientometrics and Informetrics Conference. Istanbul,Turkey, 2015.  
 
 ## Books
+李江, 胡志刚, 步一, 闵超. (2021). 科学家修炼指南2. 北京, 科学出版社.
 李江, 胡志刚, 步一, 闵超. (2018). 科学家修炼指南. 北京, 科学出版社.
 
 ## Book Chapters
