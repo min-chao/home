@@ -9,4 +9,4 @@ Social Services
 * International Society for Scientometrics and Informetrics (ISSI), life-long member  
 * Association for Information Science and Technology (ASIS&T), member; Special Interest Group of Scientific and Technical Information (SIG-STI), Chair (2018-2020)  
 * China Computer Federation (CCF，中国计算机学会), member; CCF TCCSCW (协同计算专业委员会), committee member  
-* Chinese Association For Artificial Intelligence (CAAI，中国人工智能学会), member
+* Chinese Association For Artificial Intelligence (CAAI，中国人工智能学会), member; CAAI SCSA (社会计算与社会智能专业委员会), committee member
