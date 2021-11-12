@@ -8,7 +8,7 @@ Honors
 * 2014 南京大学校级优秀研究生
 
 Awards
-* 2021 第三届“数据分析与知识发现”学术研讨会优秀论文奖
+* 2021 第三届“数据分析与知识发现”学术研讨会优秀论文奖  
 （基于LDA模型与共享语义空间的新兴技术识别——以自动驾驶汽车为例）
 * 2018 ITAA Paper of Distinction
 * 2017 NetSci 2017 Student Travel Awards
