@@ -18,7 +18,7 @@ Please contact me using the information below, or the links on the lower left of
 
 **Email**: mc[at]nju[dot]edu[dot]cn  
 **Office**: School of Information Management, Room A209  
-**Office hours**: Tuesday 16pm-17pm, Thursday 16pm-17pm (2021 Spring)  
+**Office hours**: Wednesday 16pm-17pm, Frisday 16pm-17pm (2021 Fall)  
 <small>1. For students who request academic advising, email or scheduled onsite discussion is a better channel than online chat tools like WeChat.</small>  
 <small>2. I might be on occasional business travels. Welcome any visit at office hours and please just give me an email message in advance to ensure we can meet.</small>  
 
