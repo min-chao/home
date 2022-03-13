@@ -1,7 +1,9 @@
 Advising students
 # 推荐信
-* Tao Han, Master student (Computer Science at Nanjing University) -> PhD student (Business School at HongKong University)
-* Huimin Xu, Master student (Journalism at Nanjing University) -> PhD student (School of Information at University of Texas at Austin)
+* Tao Han, Master, Computer Science, Nanjing University -> PhD, Business School, The University of Hong Kong
+* Huimin Xu, Master, Journalism, Nanjing University -> PhD, School of Information, University of Texas at Austin
+* Chuanhui Wu, PhD, Information Science, Nanjing University -> Joint PhD, Department of Communications and New Media, National University of Singapore
+* Rui Tong, Undergraduate, Information Management & Information Systems, Nanjing University -> Master, Business and Data Analytics, City University of Hong Kong
 
 
 # 大学生创新训练计划
