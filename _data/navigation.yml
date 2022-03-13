@@ -14,6 +14,9 @@ main:
     
   - title: "Social services"
     url: /_pages/social_services/
+  
+  - title: "Advising students"
+    url: /_pages/advising_students/
     
   - title: "CV"
     url: /cv/
