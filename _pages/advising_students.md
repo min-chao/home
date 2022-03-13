@@ -1,24 +1,8 @@
-Research
-# Research Interests
-* Scientometrics
-* Science of Science
-* Computational Social Science
-* Network Science
+Advising students
+# 推荐信
+* Tao Han, Master student (Computer Science at Nanjing University) -> PhD student (Business School at HongKong University)
+* Huimin Xu, Master student (Journalism at Nanjing University) -> PhD student (School of Information at University of Texas at Austin)
 
-# Research Projects
-* 国家自然科学基金青年项目，引文模式视角下的科学突破研究（71904081），2020-2022，PI  
-* 教育部人文社会科学基金青年项目，施引群体视角的科学产出评价方法研究（19YJC870017），2019-2021，PI  
-* 江苏省社会科学基金青年项目，基于专利数据挖掘的企业技术创新活动研究（18TQC005），2019-2020，PI
-* 中信所与科睿唯安联合实验室开放课题，基于引文数据量化基础研究对生物医药企业发展的贡献度，2021-2021，PI    
-* 国家自然科学基金面上项目，引文扩散理论及实证研究(71874077)，2019-2022，Co-PI
-* 国家自然科学基金面上项目，基于注意力机制的学术信息动态推荐研究(72074109)，2021-2024，Co-PI  
-* 科技部新一代人工智能发展研究中心-中国科学技术信息研究所委托项目，全球人工智能高端人才分布与流动研究，2019-2020
-* 科技部新一代人工智能发展研究中心-中国科学技术信息研究所委托项目，人工智能大国博弈与竞争态势分析，2018-2019
-* 国家社会科学基金重大项目，人文社科专题数据库建设规范化管理研究(18ZDA326)，2018—2022
-* XX信息管理系统设计与开发
-* XX出版传媒集团委托项目，XX出版传媒集团大数据战略分析与规划,2014-2015
-* 国家新闻出版广电总局项目，大数据与新闻出版产业发展有关问题研究，2014
-* 中国科学技术信息研究所委托项目，科技报告质量评价与控制研究，2014
 
-# Advising Students
-* 2021年度南京大学大学生创新训练计划，国家级，基于专利技术人才流动的企业技术创新研究——以半导体行业为例，负责人: 王嘉杰，成员: 张子涵，吴佩文，肖睿
+# 大学生创新训练计划
+* 2021年度南京大学大学生创新训练计划，国家级（结题为优秀），基于专利技术人才流动的企业技术创新研究——以半导体行业为例，负责人: 王嘉杰，成员: 张子涵，吴佩文，肖睿
