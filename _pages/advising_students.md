@@ -1,9 +1,9 @@
 Advising students
 # 推荐信
-* Tao Han, Master, Computer Science, Nanjing University -> PhD, Business School, The University of Hong Kong
-* Huimin Xu, Master, Journalism, Nanjing University -> PhD, School of Information, University of Texas at Austin
-* Chuanhui Wu, PhD, Information Science, Nanjing University -> Joint PhD, Department of Communications and New Media, National University of Singapore
-* Rui Tong, Undergraduate, Information Management & Information Systems, Nanjing University -> Master, Business and Data Analytics, City University of Hong Kong
+* Tao Han, master student, Computer Science, Nanjing University -> PhD student, Business School, The University of Hong Kong
+* Huimin Xu, master student, Journalism, Nanjing University -> PhD student, School of Information, University of Texas at Austin
+* Chuanhui Wu, PhD student, Information Science, Nanjing University -> Joint PhD student, Department of Communications and New Media, National University of Singapore
+* Rui Tong, undergraduate student, Information Management & Information Systems, Nanjing University -> Master student, Business and Data Analytics, City University of Hong Kong
 
 
 # 大学生创新训练计划
