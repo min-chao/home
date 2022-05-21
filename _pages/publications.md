@@ -1,8 +1,8 @@
 Publications
 ## English journal articles
-12\. Yu, Q., Wang, Q., Zhang, Y., Chen, C., Ryu, H., Park, N., ..., **Min, C.**, … & Bu, Y. (2021). Analyzing knowledge entities about COVID-19 using entitymetrics. Scientometrics, 126(5), 4491-4509.  
-11\. Liu, M., Bu, Y., Chen, C., Xu, J., Li, D., Leng, Y., ..., **Min, C.**, … & Ding, Y. (2021). Pandemics are catalysts of scientific novelty: Evidence from COVID‐19. Journal of the Association for Information Science and Technology.  
-10\. Wu, M., Kozanoglu, D. C., **Min, C.**, & Zhang, Y. (2021). Unraveling the capabilities that enable digital transformation: A data-driven methodology and the case of artificial intelligence. Advanced Engineering Informatics, 50, 101368.  
+12\. Yu, Q., Wang, Q., Zhang, Y., Chen, C., Ryu, H., Park, N., ..., **Min, C.**, … & Bu, Y. (2021). Analyzing knowledge entities about COVID-19 using entitymetrics. ***Scientometrics***, 126(5), 4491-4509.  
+11\. Liu, M., Bu, Y., Chen, C., Xu, J., Li, D., Leng, Y., ..., **Min, C.**, … & Ding, Y. (2021). Pandemics are catalysts of scientific novelty: Evidence from COVID‐19. ***Journal of the Association for Information Science and Technology***.  
+10\. Wu, M., Kozanoglu, D. C., **Min, C.**, & Zhang, Y. (2021). Unraveling the capabilities that enable digital transformation: A data-driven methodology and the case of artificial intelligence. ***Advanced Engineering Informatics***, 50, 101368.  
 9\. **Min, C.**, Bu, Y., & Sun, J. (2021). Predicting Scientific Breakthroughs Based on Knowledge Structure Variations. ***Technological Forecasting & Social Change***, 164, 120502. [https://doi.org/10.1016/j.techfore.2020.120502](https://doi.org/10.1016/j.techfore.2020.120502)  
 8\. **Min, C.**, Bu, Y., Wu, D., Ding, Y., & Zhang, Y. (2021) Identifying citation patterns of scientific breakthroughs: A perspective of dynamic citation process. ***Information Processing & Management***, 58(1), 102428. [https://doi.org/10.1016/j.ipm.2020.102428](https://doi.org/10.1016/j.ipm.2020.102428)  
 7\.  **Min, C.**, Chen, Q, Yan, E, Bu, Y, Sun, J. (2021). Citation cascade and the evolution of topic relevance. ***Journal of the Association for Information Science and Technology***, 1– 18. [https://doi.org/10.1002/asi.24370](https://doi.org/10.1002/asi.24370)  
