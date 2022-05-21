@@ -1,7 +1,7 @@
 Publications
 ## English journal articles
-12\. Yu, Q., Wang, Q., Zhang, Y., Chen, C., Ryu, H., Park, N., ..., **Min, C.**, … & Bu, Y. (2021). Analyzing knowledge entities about COVID-19 using entitymetrics. Scientometrics, 126(5), 4491-4509.
-11\. Liu, M., Bu, Y., Chen, C., Xu, J., Li, D., Leng, Y., ..., **Min, C.**, … & Ding, Y. (2021). Pandemics are catalysts of scientific novelty: Evidence from COVID‐19. Journal of the Association for Information Science and Technology.
+12\. Yu, Q., Wang, Q., Zhang, Y., Chen, C., Ryu, H., Park, N., ..., **Min, C.**, … & Bu, Y. (2021). Analyzing knowledge entities about COVID-19 using entitymetrics. Scientometrics, 126(5), 4491-4509.  
+11\. Liu, M., Bu, Y., Chen, C., Xu, J., Li, D., Leng, Y., ..., **Min, C.**, … & Ding, Y. (2021). Pandemics are catalysts of scientific novelty: Evidence from COVID‐19. Journal of the Association for Information Science and Technology.  
 10\. Wu, M., Kozanoglu, D. C., **Min, C.**, & Zhang, Y. (2021). Unraveling the capabilities that enable digital transformation: A data-driven methodology and the case of artificial intelligence. Advanced Engineering Informatics, 50, 101368.  
 9\. **Min, C.**, Bu, Y., & Sun, J. (2021). Predicting Scientific Breakthroughs Based on Knowledge Structure Variations. ***Technological Forecasting & Social Change***, 164, 120502. [https://doi.org/10.1016/j.techfore.2020.120502](https://doi.org/10.1016/j.techfore.2020.120502)  
 8\. **Min, C.**, Bu, Y., Wu, D., Ding, Y., & Zhang, Y. (2021) Identifying citation patterns of scientific breakthroughs: A perspective of dynamic citation process. ***Information Processing & Management***, 58(1), 102428. [https://doi.org/10.1016/j.ipm.2020.102428](https://doi.org/10.1016/j.ipm.2020.102428)  
@@ -14,7 +14,7 @@ Publications
 1\. Sun, J., **Min, C.**, & Li, J. (2016). A vector for measuring obsolescence of scientific articles. ***Scientometrics***, 107(2), 745-757.
 
 ## Chinese journal articles
-27\. 何婕君, ***闵超#***. 引文持续增长型论文特征和影响因素研究[J].图书情报工作: 1-10[2022-05-21]. DOI:10.13266/j.issn.0252-3116.2022.07.011.
+27\. 何婕君, ***闵超#***. 引文持续增长型论文特征和影响因素研究[J].图书情报工作: 1-10[2022-05-21]. DOI:10.13266/j.issn.0252-3116.2022.07.011.  
 26\. 张靖雯, ***闵超***, 孙建军. 我国人文社会科学文献引文起飞分布规律探究[J].情报学报(***国家自科基金委管理学部认定的管理类A类期刊***),2022,41(04):325-336.  
 25\.	刘嘉明, ***闵超#***, & 严笑然. (2022). 合作网络和知识网络对AI企业专利创新的影响. 图书馆论坛, 网络首发  
 24\.	周云泽, ***闵超#***. 基于LDA模型与共享语义空间的新兴技术识别——以自动驾驶汽车为例[J]. 数据分析与知识发现,2021,网络首发.  
@@ -22,7 +22,7 @@ Publications
 22\.	高伊林, & ***闵超#***. (2021). 中美对一带一路地区技术扩散结构比较研究. 数据分析与知识发现, 1-22.  
 21\.	李凌英,***闵超#***,严笑然.引文动态如何变化:文献内容特征的作用研究[J].情报学报(***国家自科基金委管理学部认定的管理类A类期刊***), 2021,40(10):1065-1078.  
 20\.	吴柯烨,***闵超***,孙建军,权昭瑄. 面向特定科研任务的著者姓名消歧方法[J].情报学报(***国家自科基金委管理学部认定的管理类A类期刊***), 2021,40(07):734-744.  
-19\. 高伊林, & ***闵超#***. (2021). 中美对“一带一路”沿线技术扩散结构比较研究[J].数据分析与知识发现,2021,5(06):80-92.. 
+19\. 高伊林, & ***闵超#***. (2021). 中美对“一带一路”沿线技术扩散结构比较研究[J].数据分析与知识发现,2021,5(06):80-92.   
 18\. 皮耶特·弗朗索瓦, J.G.曼宁, 哈维·怀特豪斯, 罗布·布伦南, 托马斯·柯里, 凯文·费尼, 彼得·特钦, & ***闵超***. (2020). 全球史的宏观显微镜: Seshat全球史数据库的方法论梳理. 全球史评论, 2020(02), 42-61+305-306.  
 17\. 赵英男, 王欣, 王全胜, ***闵超***, & 陈晓威. (2020). 默认好评对消费者购买行为的影响. 管理科学(***国家自科基金委管理学部认定的管理类A类期刊***), 33(4), 137－148.  
 16\. 颜嘉麒, ***闵超#***, 余厚强, 魏家鹏, 贾韬, & 马建. (2020). 科学大数据背景下的科研协作：特征、案例与机遇. 图书与情报(***人大复印资料全文转载***), (3), 127-133.  
