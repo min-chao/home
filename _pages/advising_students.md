@@ -1,6 +1,6 @@
 Advising students
 # 推荐信
-* Tao Han, master student, Computer Science, Nanjing University -> PhD student, Business School, The University of Hong Kong, ***Hong Kong PhD Fellowship***  
+* Tao Han, master student, Computer Science, Nanjing University -> PhD student, Business School, The University of Hong Kong, ***Hong Kong PhD Fellowship Scheme (highly competitive & well-paid, acceptance rate < 4%)***  
 * Huimin Xu, master student, Journalism, Nanjing University -> PhD student, School of Information, University of Texas at Austin
 * Chuanhui Wu, PhD student, Information Science, Nanjing University -> Joint PhD student, Department of Communications and New Media, National University of Singapore
 * Rui Tong, undergraduate student, Information Management & Information Systems, Nanjing University -> Master student, Business and Data Analytics, City University of Hong Kong
