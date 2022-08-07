@@ -1,8 +1,8 @@
 Research
 # Research Interests
-* Scientometrics
+* Scientometrics (Quantitative Studies of Science)
 * Science of Science
-* Computational Social Science
+* Science-Industry Linkages
 * Network Science
 
 # Research Projects
