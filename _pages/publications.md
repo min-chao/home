@@ -1,17 +1,18 @@
 Publications
 ## English journal articles
-12\. Yu, Q., Wang, Q., Zhang, Y., Chen, C., Ryu, H., Park, N., ..., **Min, C.**, … & Bu, Y. (2021). Analyzing knowledge entities about COVID-19 using entitymetrics. ***Scientometrics***, 126(5), 4491-4509.  
-11\. Liu, M., Bu, Y., Chen, C., Xu, J., Li, D., Leng, Y., ..., **Min, C.**, … & Ding, Y. (2021). Pandemics are catalysts of scientific novelty: Evidence from COVID‐19. ***Journal of the Association for Information Science and Technology***.  
-10\. Wu, M., Kozanoglu, D. C., **Min, C.**, & Zhang, Y. (2021). Unraveling the capabilities that enable digital transformation: A data-driven methodology and the case of artificial intelligence. ***Advanced Engineering Informatics***, 50, 101368.  
-9\. **Min, C.**, Bu, Y., & Sun, J. (2021). Predicting Scientific Breakthroughs Based on Knowledge Structure Variations. ***Technological Forecasting & Social Change***, 164, 120502. [https://doi.org/10.1016/j.techfore.2020.120502](https://doi.org/10.1016/j.techfore.2020.120502)  
-8\. **Min, C.**, Bu, Y., Wu, D., Ding, Y., & Zhang, Y. (2021) Identifying citation patterns of scientific breakthroughs: A perspective of dynamic citation process. ***Information Processing & Management***, 58(1), 102428. [https://doi.org/10.1016/j.ipm.2020.102428](https://doi.org/10.1016/j.ipm.2020.102428)  
-7\.  **Min, C.**, Chen, Q, Yan, E, Bu, Y, Sun, J. (2021). Citation cascade and the evolution of topic relevance. ***Journal of the Association for Information Science and Technology***, 1– 18. [https://doi.org/10.1002/asi.24370](https://doi.org/10.1002/asi.24370)  
-6\. Zhao, Z., Bu, Y., Kang, L., **Min, C.**, Bian, Y., Tang, L., & Li, J. (2020). An investigation of the relationship between scientists’ mobility to/from China and their research performance. ***Journal of Informetrics***, 14(2), 101037.  
-5\. Zhao, L., & **Min, C.** (2019). The Rise of Fashion Informatics: A Case of Data-Mining-Based Social Network Analysis in Fashion. ***Clothing and Textiles Research Journal***, 37(2), 87-102.  
-4\. **Min, C.**, Ding, Y., Li, J., Bu, Y., Pei, L., & Sun, J. (2018). Innovation or imitation: The diffusion of citations. ***Journal of the Association for Information Science and Technology***, 69(10), 1271-1282.  
-3\. Sun, J., Sheng, D., Gu, D., Du, J. T., & **Min, C.** (2017). Understanding link sharing tools continuance behavior in social media. ***Online Information Review***, 41(1), 119-133.  
-2\. **Min, C.**, Sun, J., Pei, L., & Ding, Y. (2016). Measuring delayed recognition for papers: Uneven weighted summation and total citations. ***Journal of Informetrics***, 10(4), 1153-1165.  
-1\. Sun, J., **Min, C.**, & Li, J. (2016). A vector for measuring obsolescence of scientific articles. ***Scientometrics***, 107(2), 745-757.
+12\. **Min, C.**, Bu, Y., & Sun, J. (2021). Predicting Scientific Breakthroughs Based on Knowledge Structure Variations. ***Technological Forecasting & Social Change***, 164, 120502. [https://doi.org/10.1016/j.techfore.2020.120502](https://doi.org/10.1016/j.techfore.2020.120502)  
+11\. **Min, C.**, Bu, Y., Wu, D., Ding, Y., & Zhang, Y. (2021) Identifying citation patterns of scientific breakthroughs: A perspective of dynamic citation process. ***Information Processing & Management***, 58(1), 102428. [https://doi.org/10.1016/j.ipm.2020.102428](https://doi.org/10.1016/j.ipm.2020.102428)  
+10\.  **Min, C.**, Chen, Q, Yan, E, Bu, Y, Sun, J. (2021). Citation cascade and the evolution of topic relevance. ***Journal of the Association for Information Science and Technology***, 1– 18. [https://doi.org/10.1002/asi.24370](https://doi.org/10.1002/asi.24370)  
+9\. **Min, C.**, Ding, Y., Li, J., Bu, Y., Pei, L., & Sun, J. (2018). Innovation or imitation: The diffusion of citations. ***Journal of the Association for Information Science and Technology***, 69(10), 1271-1282.  
+8\. **Min, C.**, Sun, J., Pei, L., & Ding, Y. (2016). Measuring delayed recognition for papers: Uneven weighted summation and total citations. ***Journal of Informetrics***, 10(4), 1153-1165.  
+7\. Sun, J., **Min, C.**, & Li, J. (2016). A vector for measuring obsolescence of scientific articles. ***Scientometrics***, 107(2), 745-757.
+6\. Yu, Q., Wang, Q., Zhang, Y., Chen, C., Ryu, H., Park, N., ..., **Min, C.**, … & Bu, Y. (2021). Analyzing knowledge entities about COVID-19 using entitymetrics. ***Scientometrics***, 126(5), 4491-4509.  
+5\. Liu, M., Bu, Y., Chen, C., Xu, J., Li, D., Leng, Y., ..., **Min, C.**, … & Ding, Y. (2021). Pandemics are catalysts of scientific novelty: Evidence from COVID‐19. ***Journal of the Association for Information Science and Technology***.  
+4\. Wu, M., Kozanoglu, D. C., **Min, C.**, & Zhang, Y. (2021). Unraveling the capabilities that enable digital transformation: A data-driven methodology and the case of artificial intelligence. ***Advanced Engineering Informatics***, 50, 101368.  
+3\. Zhao, Z., Bu, Y., Kang, L., **Min, C.**, Bian, Y., Tang, L., & Li, J. (2020). An investigation of the relationship between scientists’ mobility to/from China and their research performance. ***Journal of Informetrics***, 14(2), 101037.  
+2\. Zhao, L., & **Min, C.** (2019). The Rise of Fashion Informatics: A Case of Data-Mining-Based Social Network Analysis in Fashion. ***Clothing and Textiles Research Journal***, 37(2), 87-102.  
+1\. Sun, J., Sheng, D., Gu, D., Du, J. T., & **Min, C.** (2017). Understanding link sharing tools continuance behavior in social media. ***Online Information Review***, 41(1), 119-133.  
+
 
 ## Chinese journal articles
 27\. 何婕君, ***闵超#***. 引文持续增长型论文特征和影响因素研究[J].图书情报工作: 1-10[2022-05-21]. DOI:10.13266/j.issn.0252-3116.2022.07.011.  
