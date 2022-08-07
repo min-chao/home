@@ -5,7 +5,7 @@ Publications
 10\.  **Min, C.**, Chen, Q, Yan, E, Bu, Y, Sun, J. (2021). Citation cascade and the evolution of topic relevance. ***Journal of the Association for Information Science and Technology***, 1– 18. [https://doi.org/10.1002/asi.24370](https://doi.org/10.1002/asi.24370)  
 9\. **Min, C.**, Ding, Y., Li, J., Bu, Y., Pei, L., & Sun, J. (2018). Innovation or imitation: The diffusion of citations. ***Journal of the Association for Information Science and Technology***, 69(10), 1271-1282.  
 8\. **Min, C.**, Sun, J., Pei, L., & Ding, Y. (2016). Measuring delayed recognition for papers: Uneven weighted summation and total citations. ***Journal of Informetrics***, 10(4), 1153-1165.  
-7\. Sun, J., **Min, C.**, & Li, J. (2016). A vector for measuring obsolescence of scientific articles. ***Scientometrics***, 107(2), 745-757.
+7\. Sun, J., **Min, C.**, & Li, J. (2016). A vector for measuring obsolescence of scientific articles. ***Scientometrics***, 107(2), 745-757.  
 6\. Yu, Q., Wang, Q., Zhang, Y., Chen, C., Ryu, H., Park, N., ..., **Min, C.**, … & Bu, Y. (2021). Analyzing knowledge entities about COVID-19 using entitymetrics. ***Scientometrics***, 126(5), 4491-4509.  
 5\. Liu, M., Bu, Y., Chen, C., Xu, J., Li, D., Leng, Y., ..., **Min, C.**, … & Ding, Y. (2021). Pandemics are catalysts of scientific novelty: Evidence from COVID‐19. ***Journal of the Association for Information Science and Technology***.  
 4\. Wu, M., Kozanoglu, D. C., **Min, C.**, & Zhang, Y. (2021). Unraveling the capabilities that enable digital transformation: A data-driven methodology and the case of artificial intelligence. ***Advanced Engineering Informatics***, 50, 101368.  
