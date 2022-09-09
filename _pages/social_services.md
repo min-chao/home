@@ -6,9 +6,9 @@ Social Services
 * Program Committee: TICEC 2021, 9th Conference on Information and Communication Technologies of Ecuador  
 * Review Editor, Frontiers in Research Metrics and Analytics
 * Board member, Eco-Environment & Health
-* __Reviewer__:  
-##Nature Human Behavior, Journal of Association for Information Science and Technology (JASIST), Journal of Informetrics, Scientometrics, ACM Web Science Conference,  iConference, Annual Meeting of Association for Information Science and Technology, IEEE Transactions on Engineering Management, Data and Information Management, INFORMS Workshop on Data Science, Clothing and Textiles Research Journal，The International Conference on Information Systems (ICIS), The Pacific Asia Conference on Information Systems (PACIS)，Tsinghua Studies in Western Philosophy，International Journal of Inventory Research  
-##情报学报，数据分析与知识发现，图书情报工作，图书情报知识，中国科技资源导刊，农业图书情报，信息系统学报
+* __Reviewer__  
+English: ***Nature Human Behavior***, Journal of Association for Information Science and Technology (JASIST), Journal of Informetrics, Scientometrics, ACM Web Science Conference,  iConference, Annual Meeting of Association for Information Science and Technology, IEEE Transactions on Engineering Management, Data and Information Management, INFORMS Workshop on Data Science, Clothing and Textiles Research Journal，The International Conference on Information Systems (ICIS), The Pacific Asia Conference on Information Systems (PACIS)，Tsinghua Studies in Western Philosophy，International Journal of Inventory Research  
+中文：情报学报，数据分析与知识发现，图书情报工作，图书情报知识，中国科技资源导刊，农业图书情报，信息系统学报
 
 # Professional Membership
 * International Society for Scientometrics and Informetrics (ISSI), life-long member  
