@@ -18,4 +18,5 @@ Education
 
 Work experience
 ======
-* Research Assistant Professor, Nanjing University, 2018-
+* Associate Professor, Nanjing University, 2022-
+* Research Assistant Professor, Nanjing University, 2018-2022
