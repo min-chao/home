@@ -17,6 +17,8 @@ Please visit my [publication page](https://min-chao.github.io/_pages/publication
 
 Please contact me using the information below, or the links on the lower left of this page -- I'm always interested in new ideas and collaborations!  
 
+**I am recruiting highly motivated master and PhD students enrolled in fall, 2023. Send me your CV if you are interested!**  
+
 **Email**: mc[at]nju[dot]edu[dot]cn  
 **Office**: School of Information Management, Room A209  
 **Office hours**: Wednesday 16pm-17pm, Frisday 16pm-17pm (2021 Fall)  
