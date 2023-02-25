@@ -1,10 +1,11 @@
 Advising students
 # 推荐信
-* Tao Han, master student (2019), Computer Science, Nanjing University -> PhD student, Business School, The University of Hong Kong, ***Hong Kong PhD Fellowship Scheme (highly competitive & well-paid, acceptance rate < 4%)***  
-* Huimin Xu, master student (2018), Journalism, Nanjing University -> PhD student, School of Information, University of Texas at Austin
-* Chuanhui Wu, PhD student (2018), Information Science, Nanjing University -> Joint PhD student, Department of Communications and New Media, National University of Singapore
-* Jiazhou Zhang, undergraduate student (2018), Information Management & Information Systems, Nanjing University -> Master of information technology and master of information technology management, Faculty of Engineering, University of Sydney
-* Rui Tong, undergraduate student (2017), Information Management & Information Systems, Nanjing University -> Master student, Business and Data Analytics, City University of Hong Kong
+* ***Jiawei Xu***, master student (2020), Department of Information Management, Peking University -> PhD student (***full PhD scholarships***), School of Information, ***University of Texas at Austin***
+* ***Tao Han***, master student (2019), Computer Science, Nanjing University -> PhD student, Business School, The University of Hong Kong, ***Hong Kong PhD Fellowship Scheme (highly competitive & well-paid, acceptance rate < 4%)***  
+* ***Huimin Xu***, master student (2018), Journalism, Nanjing University -> PhD student (***full PhD scholarships***), School of Information, ***University of Texas at Austin***
+* ***Chuanhui Wu***, PhD student (2018), Information Science, Nanjing University -> Joint PhD student, Department of Communications and New Media, ***National University of Singapore***
+* ***Jiazhou Zhang***, undergraduate student (2018), Information Management & Information Systems, Nanjing University -> Master of Information Technology and Master of Information Technology Management, Faculty of Engineering, ***University of Sydney***
+* ***Rui Tong***, undergraduate student (2017), Information Management & Information Systems, Nanjing University -> Master student, Business and Data Analytics, ***City University of Hong Kong***
 
 
 # 大学生创新训练计划
