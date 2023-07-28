@@ -51,9 +51,10 @@ Publications
 1\. ***闵超***, & 孙建军. (2014). 学科交叉研究热点聚类分析——以国内图书情报学和新闻传播学为例. 图书情报工作, 58(01), 109-116.
 
 ## Conference papers & presentations
+11\. ***Min, C.***, Gong, C., Lin, H., Ke, Q., Gao, J., & Li, M. (2023). Quantifying biomedical firms' basic research. The 9th ​Atlanta Conference on Science and Innovation Policy, ​May 24-26, 2023, Atlanta, Georgia, U.S.A.   
 10\. ***Min, C.***, Xu, J., Han, T., & Bu, Y. (2021). References of references: How far is the knowledge ancestry? In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL 2021), September 27-31, 2021, Champaign, Illinois, U.S.A.  
 9\. Xu, J., ***Min, C.***, Huang, W., & Bu, Y. (2021). Interdisciplinarity vs. unidisciplinarity: A structural comparison of multi-generation citations and references. In Proceedings of the 18th International Conference on Scientometrics and Informetrics (ISSI 2021) (pp. 1259-1264), July 12-15, 2021, Leuven, Belgium.  
-8\. ***Min, C.***, Bu, Y., & Sun, J. (2019). Comparing Breakthrough and Non-Breakthrough Papers from Early Citing Structures. Proceedings of 17th International Society of Scientometrics and Informetrics Conference. Rome,Italy, 2019.  
+8\. ***Min, C.***, Bu, Y., & Sun, J. (2019). Comparing Breakthrough and Non-Breakthrough Papers from Early Citing Structures. Proceedings of 17th International Society of Scientometrics and Informetrics Conference. Rome, Italy, 2019.  
 7\. Zhao, Z., Li, J., ***Min, C.***, Bu, Y., Kang, L., & Bian, Y. (2019). Scientists' academic disruptiveness significantly increased after they moved to China. Proceedings of the Association for Information Science and Technology, 56(1), 852-854. Melbourne, Australia, 2019.  
 6\. Zhao, Y., ***Min, C.***, Han, X., Deng, S., Wang, H., & Li, J. (2019). Listening to the user's voice: A temporal analysis of autism‐related questions on Quora. Proceedings of the Association for Information Science and Technology, 56(1), 513-516. Melbourne, Australia, 2019.  
 5\. ***Min, C.***, Wang, Y., Bu, Y., Kang, L., Sun, J., & Li, J. (2019). Why are some studies more popular in social media?. iConference 2019 Proceedings.  Washington DC, USA, 2019.  
