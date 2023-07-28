@@ -1,8 +1,10 @@
 Publications
 ## English journal articles
+14\. Wu, D., **Min, C.#**, Li, Z., & Wang, Y. (2023). Vigilance and habituation: Polymorphic experience effects in internet users' privacy disclosure decisions. ***Decision Support Systems***, 170, 113961.  
+13\. Liu, M., Jaiswal, A., Bu, Y., **Min, C.**, Yang, S., Liu, Z., ... & Ding, Y. (2022). Team formation and team impact: The balance between team freshness and repeat collaboration. ***Journal of Informetrics***, 16(4), 101337.  
 12\. **Min, C.**, Bu, Y., & Sun, J. (2021). Predicting Scientific Breakthroughs Based on Knowledge Structure Variations. ***Technological Forecasting & Social Change***, 164, 120502. [https://doi.org/10.1016/j.techfore.2020.120502](https://doi.org/10.1016/j.techfore.2020.120502)  
 11\. **Min, C.**, Bu, Y., Wu, D., Ding, Y., & Zhang, Y. (2021) Identifying citation patterns of scientific breakthroughs: A perspective of dynamic citation process. ***Information Processing & Management***, 58(1), 102428. [https://doi.org/10.1016/j.ipm.2020.102428](https://doi.org/10.1016/j.ipm.2020.102428)  
-10\.  **Min, C.**, Chen, Q, Yan, E, Bu, Y, Sun, J. (2021). Citation cascade and the evolution of topic relevance. ***Journal of the Association for Information Science and Technology***, 1– 18. [https://doi.org/10.1002/asi.24370](https://doi.org/10.1002/asi.24370)***(Wiley Top Cited Article in JASIST)***  
+10\.  **Min, C.**, Chen, Q, Yan, E, Bu, Y, Sun, J. (2021). Citation cascade and the evolution of topic relevance. ***Journal of the Association for Information Science and Technology***, 1– 18. [https://doi.org/10.1002/asi.24370](https://doi.org/10.1002/asi.24370). ***(Wiley Top Cited Article in JASIST)***  
 9\. **Min, C.**, Ding, Y., Li, J., Bu, Y., Pei, L., & Sun, J. (2018). Innovation or imitation: The diffusion of citations. ***Journal of the Association for Information Science and Technology***, 69(10), 1271-1282.  
 8\. **Min, C.**, Sun, J., Pei, L., & Ding, Y. (2016). Measuring delayed recognition for papers: Uneven weighted summation and total citations. ***Journal of Informetrics***, 10(4), 1153-1165.  
 7\. Sun, J., **Min, C.**, & Li, J. (2016). A vector for measuring obsolescence of scientific articles. ***Scientometrics***, 107(2), 745-757.  
@@ -13,8 +15,13 @@ Publications
 2\. Zhao, L., & **Min, C.** (2019). The Rise of Fashion Informatics: A Case of Data-Mining-Based Social Network Analysis in Fashion. ***Clothing and Textiles Research Journal***, 37(2), 87-102.  
 1\. Sun, J., Sheng, D., Gu, D., Du, J. T., & **Min, C.** (2017). Understanding link sharing tools continuance behavior in social media. ***Online Information Review***, 41(1), 119-133.  
 
-
 ## Chinese journal articles
+33\. ***闵超#***,刘嘉明,严笑然.产学研合作对人工智能企业技术创新的影响[J].中国发明与专利,2023,20(07):5-15.  
+32\. 王骞敏,鄢春根,***闵超***.融合多层异构网络链路预测的产学研专利合作关系挖掘[J].现代情报,2023,43(05):54-65.  
+31\. 张靖雯,***闵超#***.引文扩散视角下论文学术影响力和社会影响力比较研究——以生物医学为例[J].情报学报,2023,42(01):31-42.  
+30\. 秦宇远,张雯,***闵超***.区域协调战略背景下重点区域军民融合发展评估与对策研究[J].现代情报,2022,42(09):103-113.  
+29\. 吴志祥,何超,赵凯蕊,***闵超***,王昊.基于主题词分布测度的学者知识累积行为研究[J].情报理论与实践,2022,45(07):140-147.DOI:10.16353/j.cnki.1000-7490.2022.07.020.  
+28\. 韩旭,***闵超#***,张靖雯.基于多维特征的引文扩散模式预测研究[J].图书情报工作,2022,66(09):82-92.DOI:10.13266/j.issn.0252-3116.2022.09.009.
 27\. 何婕君, ***闵超#***. 引文持续增长型论文特征和影响因素研究[J].图书情报工作: 1-10[2022-05-21]. DOI:10.13266/j.issn.0252-3116.2022.07.011.  
 26\. 张靖雯, ***闵超***, 孙建军. 我国人文社会科学文献引文起飞分布规律探究[J].情报学报(***国家自科基金委管理学部认定的管理类A类期刊***),2022,41(04):325-336.  
 25\.	刘嘉明, ***闵超#***, & 严笑然. (2022). 合作网络和知识网络对AI企业专利创新的影响. 图书馆论坛, 网络首发  
