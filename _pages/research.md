@@ -2,9 +2,9 @@ Research
 # Areas Of Specialization
 * Data Science (数据科学)
 * S&T Big Data Mining (科技大数据挖掘)
+* Complex Networks (复杂网络)
 * Science of Science (科学学)
 * Science evaluation & Innovation Policy (科技评价与创新政策)
-* Complex Networks (复杂网络)
 
 # Research Projects
 * 中央高校基本科研业务费专项资金资助, 基础研究与XX智能化互动发展研究(14380005), 2021-2023, 主持
