@@ -1,6 +1,6 @@
 Research
-# Areas Of Specialization
-* Data Science (数据科学)
+# Areas of Specialization
+* Applied Data Science (应用数据科学)
 * S&T Big Data Mining (科技大数据挖掘)
 * Complex Networks (复杂网络)
 * Science of Science (科学学)
