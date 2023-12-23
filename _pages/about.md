@@ -17,7 +17,7 @@ Please visit my [publication page](https://min-chao.github.io/_pages/publication
 
 Please contact me using the information below, or the links on the lower left of this page -- I'm always interested in new ideas and collaborations!  
 
-<span style="color:red">***I am looking for master students, PhD students, and undergraduate students who are self-driven, diligent, adaptable and resourceful, to work on exciting research in S&T Big Data Mining, Science of Science, STI policy, Complex Networks, etc. If you are passionate about research, you are more than welcome to contact me.***</span>
+***I am looking for master students, PhD students, and undergraduate students who are self-driven, diligent, adaptable and resourceful, to work on exciting research in S&T Big Data Mining, Science of Science, STI policy, Complex Networks, etc. If you are passionate about research, you are more than welcome to contact me.***
 
 **Email**: mc[at]nju[dot]edu[dot]cn  
 **Office**: School of Information Management, Room A209  
