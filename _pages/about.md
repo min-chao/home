@@ -20,8 +20,8 @@ Please contact me using the information below, or the links on the lower left of
 ***I am looking for master students, PhD students, and undergraduate students who are self-driven, diligent, adaptable and resourceful, to work on exciting research in S&T Big Data Mining, Science of Science, STI policy, Complex Networks, etc. If you are passionate about research, you are more than welcome to contact me.***
 
 **Email**: mc[at]nju[dot]edu[dot]cn  
-**Office**: School of Information Management, Room A209  
-**Office hours**: Tuesday 17pm-18pm, Thursday 17pm-18pm (2023 Fall)  
+**Office**: School of Information Management, Room A225  
+**Office hours**: Tuesday 17pm-18pm, Thursday 17pm-18pm (2024 Fall)  
 <small>1. For students who request academic advising, email or scheduled onsite discussion is a better channel than online chat tools like WeChat.</small>  
 <small>2. I might be on occasional business travels. Welcome any visit at office hours and please just give me an email message in advance to ensure we can meet.</small>  
 
